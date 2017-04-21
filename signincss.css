@@ -1,0 +1,154 @@
+*{
+    background-color: white;
+}
+.grid_12{
+    height: 15%;
+}
+input#emailtextfield{
+    margin-right: 20px;
+}
+label#contactlabel{
+    margin-right: 93px;
+}
+ input#passwordfield{
+    margin-right: 20px;
+}
+div.grid_12,div#signinlabel,div#inputdiv, 
+div#topdiv,#forgotpass,
+a#forgotpasslink,
+label#contactlabel,
+label#passlabel,
+#loginbtn{
+    background-color: darkblue;
+    color: white;
+}
+#forgotpass{
+    padding-top: 5px;
+}
+div#signinlabel{
+    padding-bottom: 5px;
+}
+div#topdiv{
+    float: right;
+    padding: 20px;
+    height: inherit;    
+}
+#forgotpasslink{
+    position: relative;
+    left: 195px;
+}
+.top#passwordfield, .top#emailtextfield{
+   display: inline;
+}
+div#imgdisplay{
+    float:left;
+}
+div#imgdisplay, div#rightdisplay{
+    margin-top: 20px;
+    height: 80%;
+    
+}
+#lefttext{
+    font-size: 24px;
+}
+img#image{
+    margin:auto;
+}
+div#rightdisplay{
+    float: right;
+}
+label#firsttxt{
+    font-size: 40px;
+    font-weight: bold;
+}
+label#sectext{
+    font-weight: bold;
+    display:block;
+}
+div#signindetails{
+    margin-bottom:20px;
+    margin-top:15px;
+}
+#signuppass,#signupcontact{
+    display:block;
+    min-width:76%;
+}
+.signup{
+    border-radius: 5px;
+    height: 8%;
+    margin: 10px 4px;   
+}
+#dob{
+    display: block;
+    margin-top:5px;
+    border-radius: 5px;
+}
+#dob-label{
+    font-size: 20px;
+    font-weight: bold;
+}
+#why_dob{
+    display:inline;
+    font-size:10px;
+    position: relative;
+    left: 70px;
+    top: 25px;
+}
+label#femalelabel, label#malelabel{
+    font-size: 20px;
+}
+#gender{
+    margin:10px 0px 0px;   
+}
+#terms-validation{
+    display: block;
+    font-size: 14px;
+    width: 80%;
+}
+#createbtn{
+    margin-top: 10px;
+    width: 180px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color:#34445f;
+    color:white;
+}
+#forceleb{
+    position: relative;
+    left: 50%;
+    top:5px;
+    bottom:20px;
+    margin-bottom: 20px;
+}
+#footer{
+    margin-top:25px;
+    margin-bottom:10px;
+    display:block;
+}
+.footerlink#footer{
+    margin: 20px;
+}
+section>a{
+    margin: 0px 3px;
+}
+footer>a{
+    float: left;
+    margin: 3px 5px;
+    clear:right;
+}
+label#copyright{
+    float: left;
+    margin-bottom: 50px;
+    position: relative;
+    top: 40px;
+    right:350px
+}
+footer{
+    width: 80%;
+}
+/*div#imgdisplay, div#rightdisplay, #image,
+label#lefttext, label#firsttxt, label#sectext, 
+div#signindetails, label#dob-label,div#dob, div#secsign{
+    background-color:aliceblue;
+}*/
